@@ -1,0 +1,13 @@
+/[Ll]ogs/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Library/
+/ProjectSettings/ProjectVersion.txt
+
+# Visual Studio / Rider / Intellij Generated Items
+*.csproj
+*.sln
+*.suo
+.idea/
